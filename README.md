@@ -3,6 +3,8 @@ CaptureFlow is a modern, high-performance video management and sharing platform 
 
 Designed for speed and clarity, CaptureFlow focuses on providing a premium viewing experience with a "mobile-first" responsive design.
 
+-----
+
 
 🚀 Key Features
 Public Video Library: A curated grid of video content featuring dynamic thumbnails and view counts.
